@@ -97,7 +97,7 @@ body {
   #carousel {
   width: 500px;
   height: 600px;
-  background: url("./assets/t-shirt.png");
+  background: url("./assets/t-shirt1.png");
   background-size: cover;
   background-repeat: no-repeat; 
   text-align: center;
@@ -113,9 +113,9 @@ body {
   
 #slides { 
   overflow: hidden;
-  margin-left: -10px;
+  margin-left: 10px;
   margin-top: 100px; 
-  width: 465px;
+  width: 500px !important;
   height: 250px;
 }
   
@@ -137,7 +137,7 @@ body {
 }
   
 .quote-phrase {
-  font-size: 32px;
+  font-size: 30px;
   color: rgb(235, 18, 90);
 }
   
